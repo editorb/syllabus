@@ -5,20 +5,20 @@ permalink: /
 
 # Course Syllabus
 
-**University of xxx**
+**Xavier University of Louisiana**
 
 **College**
 
 **Unit**
 
-## Course Number: Course Title
+## 666: Phantom Vibrations
 
-**Semester Year**
+**Fall 2016**
 
 
-**Instructor: **Dr. ××**   
-**Office**: Building Number  
-**Email**:  
+**Instructor: **Mr. Bart Everson ××**   
+**Office**: Library 536  
+**Email**:  bpeverso AT something DOT edu
 
 **Phone**:  
 **Office Hours**: Date, Time, Location  
